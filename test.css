@@ -2,3 +2,27 @@
   margin: 0px ;
   padding: 0px  ;
 }
+
+
+
+.box{
+  background-color: red;
+  width: 110px;
+  padding: 10px;
+}
+.box1{
+  background-color: green;
+}
+.box2{
+  background-color: blue;
+}
+
+.container{
+  display: flex;
+  justify-content:space-around;
+
+}
+ 
+.hello{
+  cursor: pointer;
+}
